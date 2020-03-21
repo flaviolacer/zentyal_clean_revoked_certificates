@@ -1,7 +1,7 @@
-Remove Zentyal Revoked Certificates
-Run with sudo!
+Remove Zentyal Revoked Certificates\n
+Run with sudo!\n\n
 
-connect SSH and:
+connect SSH and:\n
 sudo ./clean_revoked.sh
 
 Have Fun!
